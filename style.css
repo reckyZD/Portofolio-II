@@ -1,0 +1,26 @@
+ul li span {
+  margin-right: 10px;
+  margin-top: auto;
+}
+
+.jumbotron img {
+  width: 300px;
+  height: 325px;
+  background-image: url(img/Dual_blob.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+section {
+  min-height: 450px;
+}
+
+hr {
+  width: 220px;
+  border-top: 3px solid #aaa;
+}
+
+.sosial-link a img {
+  width: 45px;
+  height: 45px;
+}
