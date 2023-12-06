@@ -19,3 +19,8 @@ hr {
   width: 220px;
   border-top: 3px solid #aaa;
 }
+
+.sosial-link a img {
+  width: 45px;
+  height: 45px;
+}
